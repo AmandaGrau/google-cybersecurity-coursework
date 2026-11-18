@@ -27,10 +27,10 @@ Investigated web server outage affecting company website accessibility. Analyzed
 
 **Amanda Grau**
 
-[![Email](https://img.shields.io/badge/Email-00c176?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agrau.dev@gmail.com)
+[![Email](https://img.shields.io/badge/Email-00c176?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amanda@tracemaven.com)
 [![GitHub](https://img.shields.io/badge/GitHub-333c76?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AmandaGrau)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-3B82F6?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amandargrau)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-3B82F6?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amanda-grau-cybersecurity)
 
-*Completed as part of the Google Cybersecurity Professional Certificate*
+*Completed as part of the Google Cybersecurity Certificate*
 
 </div>
