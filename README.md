@@ -1,21 +1,17 @@
-# Cybersecurity Portfolio
+# Google Cybersecurity Certificate Coursework
 
-## About Me
+Foundational projects completed during the Google Cybersecurity Certificate. For my independent lab work, see [home-soc-lab](https://github.com/AmandaGrau/home-soc-lab)
 
-I'm a junior cybersecurity professional with a technical foundation in Python and system-level thinking from software engineering. I've completed hands-on work in incident investigation, network analysis, and security automation. I'm interested in work where I can dig into security problems, figure out what's broken, and help build defenses that actually protect organizations.
-
-[Read my full professional statement →](professional-statement/professional_statement.pdf)
-
-**Certificate:** [Google Cybersecurity Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/6W2GMUSLMOAJ) (Verified)
+**Certificate:** [Google Cybersecurity Certificate](https://www.coursera.org/account/accomplishments/professional-cert/6W2GMUSLMOAJ) (Verified)
 
 ---
 
 ## Featured Projects
 
 ### Incident Investigation Journal
-Documentation of 20+ security investigations covering incident response, SIEM analysis, network attacks, and threat detection. Working notes from hands-on practice with Splunk, Chronicle, Wireshark, tcpdump, Suricata, and Python automation.
+Documentation of 20+ guided lab investigations covering incident response, SIEM analysis, network attacks, and threat detection. Working notes from hands-on practice with Splunk, Chronicle, Wireshark, tcpdump, VirusTotal, Suricata, and Python automation.
 
-**Key Skills:** Incident documentation, SIEM platforms (Splunk, Chronicle), network analysis (Wireshark, tcpdump), malware analysis, IDS (Suricata), Python automation
+**Key Skills:** Incident documentation, SIEM platforms (Splunk, Chronicle), network analysis (Wireshark, tcpdump), malware hash analysis, IDS (Suricata), Python automation
 
 [View Project →](incident-handler-journal/)
 
@@ -31,7 +27,7 @@ Analyzed web server compromise where attacker used default credentials to gain a
 ---
 
 ### SYN Flood DDoS Attack Analysis
-Used Wireshark to analyze denial-of-service attack that overwhelmed web server with half-open TCP connections. Identified attack pattern, documented findings using NIST Cybersecurity Framework, and implemented immediate firewall blocks.
+Used Wireshark to analyze denial-of-service attack that overwhelmed web server with half-open TCP connections. Identified attack pattern, documented findings using NIST Cybersecurity Framework, and recommended immediate firewall blocks.
 
 **Key Skills:** Wireshark packet analysis, TCP/IP protocols, DoS attack detection, NIST CSF application, incident response
 
@@ -59,38 +55,38 @@ Troubleshot website connectivity issues using tcpdump to capture network traffic
 
 ## Portfolio by Skill Domain
 
-### 🔍 Incident Response & Investigation
-- **[Incident Handler's Journal](incident-handler-journal/)** - 20+ documented security investigations
+### Incident Response & Investigation
+- **[Incident Handler's Journal](incident-handler-journal/)** - 20+ guided lab investigations
 - **[Brute Force Attack Investigation](brute-force-attack/)** - Web server compromise analysis
 - **[Phishing Incident Response](phishing-response/)** - Playbook-guided phishing investigation
 - **[Malware Hash Analysis](malware-analysis/)** - VirusTotal IOC identification
 - **[USB Attack Vectors](usb-attack-vectors/)** - Physical security threat analysis
 - **[NIST CSF Incident Analysis](nist-csf-incident-analysis/)** - Framework application to security incident
 
-### 🌐 Network Security Analysis
+### Network Security Analysis
 - **[SYN Flood Attack Analysis](syn-flood-attack-analysis/)** - DDoS detection and response
 - **[DNS & ICMP Traffic Analysis](dns-icmp-traffic-analysis/)** - Network troubleshooting
 - **[Network Hardening Assessment](network-hardening/)** - Security recommendations
 
-### 🛡️ Security Auditing & Compliance
+### Security Auditing & Compliance
 - **[Internal Security Audit](internal-security-audit/)** - Controls and compliance assessment
 - **[Access Control Audit](access-control-audit/)** - Account lifecycle and permissions review
 - **[Vulnerability Assessment](vulnerability-assessment/)** - Vulnerability identification and risk prioritization
 - **[Risk Register](risk-register/)** - Risk documentation and tracking
 - **[Data Handling Assessment](data-handling/)** - Data classification and handling procedures
 
-### 🎯 Threat Modeling & Risk Assessment
+### Threat Modeling & Risk Assessment
 - **[PASTA Threat Modeling](pasta-threat-modeling/)** - Application threat modeling framework
 - **[Asset Inventory](asset-inventory/)** - Asset classification and management
 
-### 🐍 Python Automation
+### Python Automation
 - **[Security Automation](security-automation/)** - Python scripts for security tasks
 
-### 💾 Database & System Security
+### Database & System Security
 - **[SQL Filtering Investigation](sql-filtering/)** - Database queries for incident investigation
 - **[File Permissions Management](file-permissions-management/)** - Linux access control remediation
 
-### 📋 Professional Development
+### Professional Development
 - **[Professional Statement](professional-statement/professional_statement.pdf)** - Career goals and technical background
 
 ---
@@ -101,7 +97,7 @@ Troubleshot website connectivity issues using tcpdump to capture network traffic
 - SIEM: Splunk, Google Chronicle
 - Network Analysis: Wireshark, tcpdump
 - IDS/IPS: Suricata
-- Threat Intelligence: VirusTotal, Pyramid of Pain Framework
+- Threat Intelligence: VirusTotal
 
 **Programming & Scripting:**
 - Python (file operations, automation, security scripting)
@@ -113,6 +109,7 @@ Troubleshot website connectivity issues using tcpdump to capture network traffic
 - NIST Risk Management Framework
 - MITRE ATT&CK
 - CIA Triad principles
+- Pyramid of Pain Framework
 
 **Security Domains:**
 - Incident Response & Investigation
@@ -125,35 +122,13 @@ Troubleshot website connectivity issues using tcpdump to capture network traffic
 
 ---
 
-## Education & Certifications
-
-**Google Cybersecurity Professional Certificate** (2024)  
-[Verify Certificate →](https://www.coursera.org/account/accomplishments/professional-cert/6W2GMUSLMOAJ)
-
-**Full-Stack Software Engineering Program** (February 2024)  
-Covered Python, system-level thinking, and software development fundamentals
-
----
-
 ## Contact
 
 **Amanda Grau**
 
-[![Email](https://img.shields.io/badge/Email-00c176?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agrau.dev@gmail.com)
+[![Email](https://img.shields.io/badge/Email-00c176?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amanda@tracemaven.com)
 [![GitHub](https://img.shields.io/badge/GitHub-333c76?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AmandaGrau)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-3B82F6?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amandargrau)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-3B82F6?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amanda-grau-cybersecurity)
 
 ---
 
-## What's in This Portfolio
-
-- 20+ documented security investigations and lab activities
-- Network traffic analysis using Wireshark, tcpdump
-- SIEM work with Splunk and Chronicle
-- Python scripts for security automation
-- Security audits and compliance assessments
-- Incident response documentation
-
----
-
-*This portfolio shows hands-on cybersecurity work from the Google Cybersecurity Professional Certificate program and software engineering training.*
